@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KUNAL-DAGAR-2002
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning React and Laravel.
-- 💞️ I’m looking to collaborate on web development projects.  
+- 👀 I’m interested in Machine Learning and Data Science.
+- 🌱 I’m currently learning Computer Vision.
+- 💞️ I’m looking to collaborate on Data Science projects.  
 - 📫 How to reach me : mail me at kunaldagar038@gmail.com
 
 <!---
